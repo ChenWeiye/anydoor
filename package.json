@@ -1,0 +1,24 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "Tiny NodeJS Static web server",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "handlebar": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChenWeiye/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChenWeiye/anydoor/issues"
+  },
+  "homepage": "https://github.com/ChenWeiye/anydoor#readme"
+}
